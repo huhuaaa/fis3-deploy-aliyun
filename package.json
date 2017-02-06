@@ -1,0 +1,24 @@
+{
+  "name": "fis3-deploy-aliyun",
+  "version": "1.0.10",
+  "main": "index.js",
+  "keywords": [
+    "fis",
+    "fis3",
+    "deploy",
+    "aliyun",
+    "modules"
+  ],
+  "dependencies": {
+    "aliyun-sdk": "1.2.1"
+  },
+  "email": "1311775708@qq.com",
+  "author": {
+    "name": "huhuaaa"
+  },
+  "bugs": {
+    "url": "https://github.com/huhuaaa/fis3-deploy-aliyun/issues"
+  },
+  "homepage": "https://github.com/huhuaaa/fis3-deploy-aliyun",
+  "license": "BSD"
+}
